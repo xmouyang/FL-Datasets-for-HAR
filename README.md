@@ -17,7 +17,7 @@ This repo includes four new real-world human activity recognition (HAR) datasets
 ### [IMU Dataset: Walking Activity Recognition using Inertial Measurement Unit Modules](https://github.com/xmouyang/FL-Datasets-for-HAR/tree/main/datasets/IMU)
 
 
-### Depth Dataset: Gesture Recognition using Depth Camera
+### [Depth Dataset: Gesture Recognition using Depth Camera](https://github.com/xmouyang/FL-Datasets-for-HAR/tree/main/datasets/Depth)
 
 
 
