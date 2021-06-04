@@ -14,7 +14,7 @@ This repo includes four new real-world human activity recognition (HAR) datasets
 ### [UWB Dataset: Human Movement Detection using Ultra Wide Band Modules](https://github.com/xmouyang/FL-Datasets-for-HAR/tree/main/datasets/UWB)
 
 
-### IMU Dataset: Walking Activity Recognition using Inertial Measurement Unit Modules
+### [IMU Dataset: Walking Activity Recognition using Inertial Measurement Unit Modules](https://github.com/xmouyang/FL-Datasets-for-HAR/tree/main/datasets/IMU)
 
 
 ### Depth Dataset: Gesture Recognition using Depth Camera
