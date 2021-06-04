@@ -11,7 +11,7 @@ This repo includes four new real-world human activity recognition (HAR) datasets
 ### HARBox Dataset: Daily Activities Recognition using Smartphones
 
 
-### UWB Dataset: Human Movement Detection using Ultra Wide Band Modules
+### [UWB Dataset: Human Movement Detection using Ultra Wide Band Modules](https://github.com/xmouyang/FL-Datasets-for-HAR/tree/main/datasets/UWB)
 
 
 ### IMU Dataset: Walking Activity Recognition using Inertial Measurement Unit Modules
