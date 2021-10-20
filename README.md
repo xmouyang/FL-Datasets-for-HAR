@@ -1,6 +1,8 @@
 # FL-Datasets-for-HAR
 
-This repo includes four new real-world human activity recognition (HAR) datasets collected under federated learning settings. The first dataset is a large-scale dataset collected using an Android App in a crowdsourcing manner. The other three are collected in indoor environments.
+This repo includes four new real-world human activity recognition (HAR) datasets collected under federated learning settings, which first appears at the MobiSys 2021 paper: "ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition".
+
+The first dataset is a large-scale dataset collected using an Android App in a crowdsourcing manner. The other three are collected in indoor environments.
 
 
 # Download
@@ -21,4 +23,14 @@ This repo includes four new real-world human activity recognition (HAR) datasets
 
 
 
-  
+# Citation
+If you find the datasets useful for your research, please cite this paper:
+```
+@inproceedings{ouyang2021clusterfl,
+  title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
+  author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Huang, Jianwei and Xing, Guoliang},
+  booktitle={Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services},
+  pages={54--66},
+  year={2021}
+}
+```
