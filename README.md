@@ -24,7 +24,7 @@ The first dataset is a large-scale dataset collected using an Android App in a c
 
 
 # Citation
-If you find the datasets useful for your research, please cite this paper:
+The datasets of this project are made available for non-commercial, academic research only. If you would like to use the code or datasets of this project, please cite the following paper:
 ```
 @inproceedings{ouyang2021clusterfl,
   title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
