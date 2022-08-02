@@ -24,7 +24,7 @@ The first dataset is a large-scale dataset collected using an Android App in a c
 
 
 # Citation
-The datasets of this project are made available for non-commercial, academic research only. If you would like to use the datasets of this project, please cite the following paper:
+The datasets of this project are made available for non-commercial, academic research only. If you would like to use the datasets of this project, please cite the following papers:
 ```
 @inproceedings{ouyang2021clusterfl,
   title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
@@ -32,5 +32,16 @@ The datasets of this project are made available for non-commercial, academic res
   booktitle={Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services},
   pages={54--66},
   year={2021}
+}
+```
+```
+@article{ouyang2022clusterfl,
+  title={ClusterFL: a clustering-based federated learning system for human activity recognition}},
+  author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Xing, Guoliang and Huang, Jianwei},
+  journal={ACM Transactions on Sensor Networks (TOSN)},
+  volume={18},
+  number={4},
+  year={2022},
+  publisher={ACM New York, NY}
 }
 ```
