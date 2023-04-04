@@ -6,4 +6,4 @@ Human movement can influence the multi-path effect of UWB (Ultra Wide Band) sign
 
 | <img src="https://github.com/xmouyang/FL-Datasets-for-HAR/blob/main/datasets/UWB/uwb_collect.png" class="img-responsive"> |
 |:---:|
-| UWB-based Human Movement Detection. The UWB devices are placed 3m away from each other, with or without a person walking between them. We conduct experiments in park- ing lots/corridors/rooms. |
+| UWB-based Human Movement Detection. The UWB devices are placed 3m away from each other, with or without a person walking between them. We conduct experiments in parking lots/corridors/rooms. |
