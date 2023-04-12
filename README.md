@@ -10,7 +10,7 @@ The first dataset is a large-scale dataset collected using an Android App in a c
   The four datasets are publicly available in the current repository. Each dataset is accompanied by a Python file "data_pre.py" for preprocessing and loading each node's data separately in federated learning. The data and processing file are compressed to a ".zip" file for each dataset. Please click the following links for more detail descriptions and downloading each dataset.
   
   
-### [HARBox Dataset: Daily Activities Recognition using Smartphones]((https://mycuhk-my.sharepoint.com/:f:/g/personal/1155136315_link_cuhk_edu_hk/EvkjzyZRYBBIuaBD-tR8-7QBzaJ1xIfa1eQGUIveGTwPPw?e=cFo7cC))
+### [HARBox Dataset: Daily Activities Recognition using Smartphones](https://github.com/xmouyang/FL-Datasets-for-HAR/tree/main/datasets/HARBox)
 
 
 ### [UWB Dataset: Human Movement Detection using Ultra Wide Band Modules](https://github.com/xmouyang/FL-Datasets-for-HAR/tree/main/datasets/UWB)
