@@ -7,7 +7,7 @@ The first dataset is a large-scale dataset collected using an Android App in a c
 
 # Download
 
-  The four datasets are publicly available in the current repository. Each dataset is accompanied by a Python file "data_pre.py" for preprocessing and loading each node's data separately in federated learning. The data and processing file are compressed to a ".zip" file for each dataset. Please click the following links for more detail descriptions and downloading each dataset.
+  The four datasets are publicly available in the <a href="https://www.dropbox.com/sh/bjgfb91052nmpz6/AAD7v_HAmJwPvPmCTQnCmISma?dl=0"> dropbox link </a>. Each dataset is accompanied by a Python file "data_pre.py" for preprocessing and loading each node's data separately in federated learning. The data and processing file are compressed to a ".zip" file for each dataset. Please click the following links for more detail descriptions and downloading each dataset.
   
   
 ### [HARBox Dataset: Daily Activities Recognition using Smartphones](https://github.com/xmouyang/FL-Datasets-for-HAR/tree/main/datasets/HARBox)
